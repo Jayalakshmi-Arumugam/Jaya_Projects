@@ -1,2 +1,2 @@
 # Jaya_Projects
-First trial for knowing github
+This project for understanding branches
